@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21008224.css",
+    "main.js": "/static/js/main.789baa2d.js",
+    "static/media/Luka-CV.pdf": "/static/media/Luka-CV.12ad55f8eafda0bd469e.pdf",
+    "static/media/profile.JPG": "/static/media/profile.ba8429c58558f719044f.JPG",
+    "static/media/about.jpg": "/static/media/about.278ded5e15c66312050c.jpg",
+    "static/media/testimonial1.jpg": "/static/media/testimonial1.175cdb4ce596f2ad58be.jpg",
+    "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/static/media/testimonial2.89079c1d25f2c94ceb89.png",
+    "static/media/hand.svg": "/static/media/hand.330b49cc7cd3bedaa20e738eb0d42fc1.svg",
+    "static/media/send.svg": "/static/media/send.99c8c09b1d47497fe8cebe935cc8405c.svg",
+    "static/media/scroll.svg": "/static/media/scroll.083a8933455e8ad6b49dac04b76dcfae.svg",
+    "index.html": "/index.html",
+    "main.21008224.css.map": "/static/css/main.21008224.css.map",
+    "main.789baa2d.js.map": "/static/js/main.789baa2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21008224.css",
+    "static/js/main.789baa2d.js"
+  ]
+}
