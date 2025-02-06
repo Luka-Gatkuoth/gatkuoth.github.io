@@ -20,31 +20,35 @@ Welcome to my personal website! This project showcases my skills, services, port
 - Contact: A form where visitors can send messages directly to my email using EmailJS.
 
 ## Technologies Used
+
 - React
 - EmailJS
-- CSS 
+- CSS
 - HTML
 - JavaScript
 
 ## Installation
+
 To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Luka-Gatkuoth/personal-website.git
-
+   git clone https://github.com/Luka-Gatkuoth/gatkuoth.github.io
+   ```
 2. Navigate to the project directory:
-   cd personal-website
+   cd gatkuoth.github.io
 
 3. Install the dependencies
-    npm install
+   npm install
 
 # Usage
+
 1. Start the development server
-    npm start
+   npm start
 2. Open your browser and go to http://localhost:3000 to view the website.
 
 # Contact
+
 If you would like to get in touch, feel free to fill out the contact form on the website. The form utilizes EmailJS to send messages directly to my email: lukagatkuoth4@gmail.com.
 
 Thank you for visiting my personal website! I hope you find it informative and engaging.
